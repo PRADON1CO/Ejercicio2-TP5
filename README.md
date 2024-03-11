@@ -1,22 +1,22 @@
 <!-- Proyect Logo -->
 <div align= "center">
-    <a href='https://ejercicio1-tp5.netlify.app'>
+    <a href='https://ejercicio2-tp5.netlify.app'>
     <img src='./img/logo.jpg' alt='RollingCode' width='300' />
     </a>
     <h1>Trabajo Practico N°5</h1>
     <p>
     En este repsositios encontraran ejercicios del trabajo practico N°5 con el uso de BOM y DOM
     <br>
-    <a href='https://ejercicio1-tp5.netlify.app'>
+    <a href='https://ejercicio2-tp5.netlify.app'>
     <strong>Explorar pagina » </strong>
     </a>
     <br>
     <br>
-    <a href='https://ejercicio1-tp5.netlify.app'>
+    <a href='https://ejercicio2-tp5.netlify.app'>
     Reportar un problema
     </a>
     ·
-    <a href='https://ejercicio1-tp5.netlify.app'>
+    <a href='https://ejercicio2-tp5.netlify.app'>
     Solicitar una mejora
     </a>
     </p>
@@ -74,7 +74,7 @@ Luego crea la interfaz necesaria para que el usuario pueda crear un objeto perso
 -Clonar repositorio:
 
 ```bash
-git clone https://github.com/PRADON1CO/Ejercicio1-TP5
+git clone https://github.com/PRADON1CO/Ejercicio2-TP5
 ```
 
 -Asegurarse que se encuentra la rama `main`
